@@ -1,6 +1,5 @@
 -- ==========================================
 -- VTYS-1 DÖNEM PROJESİ: ÇEVRİMİÇİ YEMEK SİPARİŞ PLATFORMU
--- Prompt 1 Gereksinimlerine Göre Yeniden Tasarlanmış Veritabanı
 -- ==========================================
 
 USE master;
